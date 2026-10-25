@@ -1,0 +1,13 @@
+SHENZHEN MOTIONTECH CO., LTD — ORDER ACKNOWLEDGEMENT
+
+Ack No: SZ-ACK-26-3381
+Date: 2026-10-23
+Your PO: PO-1042
+Supplier: Shenzhen MotionTech
+
+Item           Description                          Qty   Unit price
+CP-CYL-HY40    Hydraulic cylinder 40mm bore          30    $139.00
+CP-SNS-PRX     Inductive proximity sensor M18        24    $35.50
+
+Delivery date: 2026-11-30
+Remark: sensors partial — 24 of 40 pcs this lot, balance 16 pcs to follow in December due to chip allocation.

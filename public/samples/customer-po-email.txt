@@ -1,0 +1,18 @@
+From: Jen Alvarez <jalvarez@kessler-packaging.example>
+To: orders@halvorsenfab.example
+Subject: PO 55-90412 — conveyor frames + brackets, need by Nov 14
+
+Hi team,
+
+Please book the following against our blanket agreement. Same spec as last quarter
+but we need the 1200 frames in the yellow powder coat this time, not black.
+
+  - 3 x CF-1200 conveyor frame, safety yellow — $3,450 ea
+  - 40 x HB-40 hydraulic mounting brackets — $189 ea
+
+Required by: 11/14/2026, ship to our Columbus DC (dock 4, 7am–2pm).
+Our PO number is 55-90412. Can you confirm the date by Friday?
+
+Thanks,
+Jen Alvarez
+Purchasing, Kessler Packaging Systems

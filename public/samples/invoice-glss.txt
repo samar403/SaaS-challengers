@@ -1,0 +1,20 @@
+GREAT LAKES STEEL SERVICE
+1800 Riverside Industrial Pkwy, Toledo OH 43605
+
+INVOICE
+Invoice No: GLS-INV-77812
+Date: 2026-10-24
+Bill To: Halvorsen Fabrication, 455 Webster St, Dayton OH 45402
+Customer PO: PO-1041
+Terms: Net 30
+Ship date: 2026-10-27
+
+ITEM          DESCRIPTION                         QTY   UOM   UNIT PRICE     AMOUNT
+RM-PLT-250    Steel plate 1/4in 60x120 A36        20    SH    $412.00        $8,240.00
+RM-SHT-10GA   Steel sheet 10ga 48x96 HR           24    SH    $118.40        $2,841.60
+
+Subtotal: $11,081.60
+Freight: $385.00
+Total: $11,466.60
+
+Note: unit price on A36 plate reflects the Oct 15 mill surcharge (+$7.00/SH vs PO).

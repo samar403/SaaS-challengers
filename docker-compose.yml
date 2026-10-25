@@ -1,0 +1,14 @@
+services:
+  lathe:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      SESSION_SECRET: ${SESSION_SECRET:-change-me-please-32-characters!!}
+      # Served over plain HTTP locally; remove behind TLS.
+      LATHE_INSECURE_COOKIES: "1"
+    volumes:
+      - lathe-data:/app/data
+volumes:
+  lathe-data:

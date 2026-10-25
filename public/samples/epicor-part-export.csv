@@ -1,0 +1,6 @@
+PartNum,PartDescription,ClassID,IUM,OnHandQty,MinimumQty,MinOrderQty,UnitCost,BinNum,VendorNum,AvgDailyUsage
+EP-20311,"Hinge, heavy duty 4in",COMP,EA,120,50,200,3.85,WH-C-15,APXF,6
+EP-20318,"Gasket, EPDM 3in flange",COMP,EA,410,150,500,0.92,WH-C-16,APXF,18
+EP-30001,Powder coat RAL 7035 light grey,CONS,BX,4,4,8,244.00,PAINT-2,CCPW,0.5
+EP-41020,Hydraulic hose assy 3/8 x 36in,COMP,EA,25,20,50,27.40,WH-C-07,SZMT,1.8
+EP-90050,Operator platform OP-50,FG,EA,1,1,2,4980.00,FG-3,,0.1
